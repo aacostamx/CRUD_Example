@@ -1,0 +1,10 @@
+C:\Users\Antonio\Documents\visual studio 2015\Projects\CRUD_Example\bin\CRUD_Example.dll.config
+C:\Users\Antonio\Documents\visual studio 2015\Projects\CRUD_Example\bin\CRUD_Example.dll
+C:\Users\Antonio\Documents\visual studio 2015\Projects\CRUD_Example\bin\CRUD_Example.pdb
+C:\Users\Antonio\Documents\visual studio 2015\Projects\CRUD_Example\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\visual studio 2015\Projects\CRUD_Example\obj\Debug\CRUD_Example.dll
+C:\Users\Antonio\Documents\visual studio 2015\Projects\CRUD_Example\obj\Debug\CRUD_Example.pdb
+C:\Users\Antonio\Documents\visual studio 2015\Projects\CRUD_Example\bin\Negocio.dll
+C:\Users\Antonio\Documents\visual studio 2015\Projects\CRUD_Example\bin\Datos.dll
+C:\Users\Antonio\Documents\visual studio 2015\Projects\CRUD_Example\bin\Negocio.pdb
+C:\Users\Antonio\Documents\visual studio 2015\Projects\CRUD_Example\bin\Datos.pdb
